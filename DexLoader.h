@@ -1,7 +1,7 @@
 /*
  *
  *	@author : rrrfff@foxmail.com
- *  https://github.com/rrrfff/AndHook
+ *  https://github.com/rrrfff/JApi4NDK
  *
  */
 #pragma once
